@@ -1,3 +1,14 @@
+# Adding config.py file.
+config.py
+
+# Adding additional ignore files
+API_practice.ipynb
+Goggle_Nearby_Search.ipynb
+random_numbers.ipynb
+VacationPy.ipynb
+WeatherPy.ipynb
+weather_data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
