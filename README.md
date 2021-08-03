@@ -14,7 +14,7 @@ This project is to upgrade a completed travel app using google and weather API k
 
 ## Results
  
-An API call using OpenWeatherMap retrieved weather and locations of nearest cities of 2,000 latitdes and longitudes. An API key for google places and maps was used to find the nearest hotel listed in each city and was then added to a map with desired weather and places added to a message box to each marker on the map. Multiple hotel deistinations in China were chosen as an example of the final product. There was also a map of routes to each location in a map as well. 
+An API call using OpenWeatherMap retrieved weather and locations of nearest cities of 2,000 latitdes and longitudes. An API key for google places and maps was used to find the nearest hotel listed in each city and was then added to a map with desired weather and places added to a message box to each marker on the map. Multiple hotel deistinations in China were chosen as an example of the final product. There was also a map of routes to each location for easy travel planning. 
  
  ##### Markers on a map including desried current information for destinations:
  
